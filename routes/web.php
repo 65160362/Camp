@@ -6,6 +6,7 @@ use App\Http\Controllers\MyController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
+//comment test
 
 /*
 |--------------------------------------------------------------------------
